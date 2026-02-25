@@ -1,5 +1,10 @@
-📊 Sales Data Analysis
+# 📊 Sales Data Analysis
 
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
+![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-green)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 📌 Project Overview
 This project analyzes a sales dataset to uncover trends, revenue drivers, customer behavior, and business insights.
 The goal is to transform raw transactional data into actionable insights that support strategic decision-making.
